@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(30, 30, 75);
+}
+.text1{
+    color: yellow;
+    text-align: center;
+}
+.p{
+    color: aliceblue;
+    text-align: center;
+}
+.span{
+    color: green;
+}
+.table{
+    width: 800px;
+    color: white;
+    border-color: yellow;
+}
+.submit{
+    border-radius: 35px;
+    background-color: yellow;
+    text-align: center;
+}
